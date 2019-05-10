@@ -1,1 +1,1 @@
-https://github.com/ihm99051/config/blob/master/Quantumult.conf
+https://raw.githubusercontent.com/ihm99051/config/blob/master/Quantumult.conf
