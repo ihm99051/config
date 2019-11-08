@@ -1,8 +1,9 @@
+#EXTM3U
+#EXTINF:-1, GZ1
 https://channel.gztv.com/channelf/viewapi/player/channelVideo?id=5c7f6f73e4b01c17db18fbd3
-
+#EXTINF:-1, GZ2
 https://channel.gztv.com/channelf/viewapi/player/channelVideo?id=5c7f70dce4b01c17db18fbdb
-
+#EXTINF:-1, GZ3
 https://channel.gztv.com/channelf/viewapi/player/channelVideo?id=5c7f7072e4b01c17db18fbd5
-
+#EXTINF:-1, GZ4
 https://channel.gztv.com/channelf/viewapi/player/channelVideo?id=5c7f70fee4b01c17db18fbdd
-
