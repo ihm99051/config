@@ -1,11 +1,17 @@
 #EXTM3U
-#EXTINF:-1, GZ1
-https://channel.gztv.com/channelf/viewapi/player/channelVideo?id=5c7f6f73e4b01c17db18fbd3
-#EXTINF:-1, GZ2
-https://channel.gztv.com/channelf/viewapi/player/channelVideo?id=5c7f70dce4b01c17db18fbdb
-#EXTINF:-1, GZ3
-https://channel.gztv.com/channelf/viewapi/player/channelVideo?id=5c7f7072e4b01c17db18fbd5
-#EXTINF:-1, GZ4
-https://channel.gztv.com/channelf/viewapi/player/channelVideo?id=5c7f70fee4b01c17db18fbdd
-#EXTINF:-1, GZ5
+#EXTINF:-1, GZ生活
 https://aplays.gztv.com/sec/shenghuo.m3u8?auth_key=1573222203-0-0-e16541d5d4cfd0ed59a4c3e2f50a5cbb
+#EXTINF:-1, GZ新聞
+https://aplays.gztv.com/sec/xinwen.m3u8?auth_key=1573222425-0-0-2f64ab57d96604fb588121d4d0b526d1
+#EXTINF:-1, GZ綜合
+https://aplays.gztv.com/sec/zhonghe.m3u8?auth_key=1573222474-0-0-19965ed0d7ccfffbaecbf5b3e35e0110
+#EXTINF:-1, GZ影視
+https://aplays.gztv.com/sec/yingshi.m3u8?auth_key=1573222512-0-0-f21c651bec80874681d1f9cb57a176a4
+#EXTINF:-1, NA1
+https://channel.gztv.com/channelf/viewapi/player/channelVideo?id=5c7f6f73e4b01c17db18fbd3
+#EXTINF:-1, NA2
+https://channel.gztv.com/channelf/viewapi/player/channelVideo?id=5c7f70dce4b01c17db18fbdb
+#EXTINF:-1, NA3
+https://channel.gztv.com/channelf/viewapi/player/channelVideo?id=5c7f7072e4b01c17db18fbd5
+#EXTINF:-1, NA4
+https://channel.gztv.com/channelf/viewapi/player/channelVideo?id=5c7f70fee4b01c17db18fbdd
