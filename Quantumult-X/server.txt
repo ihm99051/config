@@ -1,1 +1,2 @@
 
+vmess=cf.huishome.site:443, method=chacha20-poly1305, password=3024d771-222a-4d2c-8229-829b3a3674e0, obfs=wss, obfs-host=cf.huishome.site, obfs-uri=/ray, fast-open=false, udp-relay=false, tag=HUIV2
