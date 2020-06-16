@@ -1,2 +1,5 @@
+shadowsocks=cf.huishome.site:443, method=aes-128-gcm, password=4pple!D, obfs=wss, obfs-uri=/ss, fast-open=false, udp-relay=false, tag=HUISSv2
+
 
 vmess=cf.huishome.site:443, method=chacha20-poly1305, password=3024d771-222a-4d2c-8229-829b3a3674e0, obfs=wss, obfs-host=cf.huishome.site, obfs-uri=/ray, fast-open=false, udp-relay=false, tag=HUIV2
+vmess=hyc.duckdns.org:443, method=chacha20-poly1305, password=3024d771-222a-4d2c-8229-829b3a3674e0, obfs=wss, obfs-host=hyc.duckdns.org, obfs-uri=/ray, fast-open=false, udp-relay=false, tag=HK03V2
