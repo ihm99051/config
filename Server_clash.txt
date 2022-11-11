@@ -1,0 +1,9 @@
+port: 7890
+socks-port: 7891
+allow-lan: true
+mode: Rule
+log-level: info
+external-controller: :9090
+proxies:
+  - {name: HUISHOMEV2 CU, server: cuhuishome.duckdns.org, port: 443, type: vmess, uuid: 3024d771-222a-4d2c-8229-829b3a3674e0, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /ray, headers: {Host: floral-grass-db9a.huishome.workers.dev}}, udp: true}
+  - {name: HUISHOMEV2, server: cf.huishome.site, port: 443, type: vmess, uuid: 3024d771-222a-4d2c-8229-829b3a3674e0, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /ray, headers: {Host: cf.huishome.site}}, udp: true}
