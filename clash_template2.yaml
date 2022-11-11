@@ -129,14 +129,14 @@ proxies:
   uuid: 3024d771-222a-4d2c-8229-829b3a3674e0
   alterId: 10
   cipher: auto
-  # udp: true
+  udp: true
   tls: true
   skip-cert-verify: true
   tls-hostname: cf.huishome.site
   network: ws
   ws-path: /ray
-  ws-headers:
-  Host: cf.huishome.site
+  ws-headers: 
+  Host: 10086.cn
 
 # Trojan
 - name: "trojan"
